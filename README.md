@@ -20,7 +20,7 @@ Soy un desarrollador junior con un enfoque muy práctico y orientado a la calida
 
 * 🖨️ **Experiencia y dedicación:** Compagino mis estudios de posgrado con una jornada completa en una importante empresa del sector de la **impresión 3D** en Barcelona. Esta industria es, además de mi trabajo, una de mis grandes aficiones, y esta exigencia diaria me ha dotado de una fuerte capacidad de organización y resolución de problemas.
 * ⚡ **El lado humano:** Cuando necesito abstraerme y recargar energía, suelo sumar kilómetros preparando alguna **10k o media maratón**, o buscando un buen reto en videojuegos **roguelike**. Disfruto enormemente de la música rock en directo, las novelas de fantasía, las tardes de juegos de mesa y de ver el fútbol rodeado de amigos.
-* 🌍 **Idiomas:** 🇪🇸 Español (Nativo) | 🇬🇧 Inglés ([Indica aquí tu nivel, ej. B2 Técnico])
+* 🌍 **Idiomas:** Español (Nativo) | Catalán (Nativo) | Inglés (B1)
 
 ### 💻 Stack Técnico
 
