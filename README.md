@@ -51,5 +51,5 @@ Aquí iré enlazando directamente a mis apuntes, resúmenes y repositorios temá
 
 ## 📫 Cómo contactarme
 
-* **LinkedIn:** [Mi perfil de LinkedIn!]([enlace-a-tu-linkedin](https://www.linkedin.com/in/dadomher/))
+* **LinkedIn:** [Mi perfil de LinkedIn!](https://www.linkedin.com/in/dadomher/)
 * **Email:** [Mi Email!](dadomher@gmail.com)
