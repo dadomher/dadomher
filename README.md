@@ -33,7 +33,7 @@ Soy un desarrollador junior con un enfoque muy práctico y orientado a tener una
 Aquí iré enlazando directamente a mis apuntes, resúmenes y proyectos. Puedes explorarlos a continuación:
 
 * 🧠 1. Introducción a la IA
-  * 🧠 1.1. Conceptos básicosy resumen de los últimos](#1-1-Conceptos-básicos-y-resumen-de-los-últimos | [📥 Descargar PDF](./documentos/IA/introducción/1/1_1_Resumen.pdf)
+  * 🧠 1.1. Conceptos básicosy resumen de los últimos | [📥 Descargar PDF](./documentos/IA/introducción/1/1_1_Resumen.pdf)
 
 ---
 
