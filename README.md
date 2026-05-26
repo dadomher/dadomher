@@ -2,21 +2,21 @@
 
 **Desarrollador Junior | Estudiante de Máster en Inteligencia Artificial**
 
-Bienvenido a mi jardín digital. Este espacio es un documento vivo donde registro mi aprendizaje, comparto mis investigaciones y alojo el código que voy desarrollando. Creo firmemente en la filosofía de *aprender en público*: si encuentras un error, tienes una sugerencia o simplemente quieres debatir sobre algún tema, ¡siéntete libre de abrir un Issue o mandarme un mensaje!
+Bienvenido a mi jardín digital. Este espacio es un documento vivo donde registro mi aprendizaje, comparto mis investigaciones y alojo el código que voy desarrollando. Creo firmemente en la filosofía de *aprender en público*: si encuentras un error, tienes una sugerencia o simplemente quieres debatir sobre algún tema, ¡siéntete libre de abrir un "issue" o mandarme un mensaje!
 
 ---
 
 ## 🚀 En qué ando ahora mismo
 
-* 🔭 **Trabajando en:** La creación de un repositorio documental sobre la historia y evolución de la IA, desde sus orígenes hasta la actualidad.
-* 🌱 **Aprendiendo:** Aplicación de principios SOLID y buenas prácticas de Clean Code en proyectos reales.
-* 🎯 **Objetivo:** Seguir nutriendo esta biblioteca de conocimiento estructurada mientras avanzo en mi máster.
+* 🔭 **Trabajando en:** La creación de un repositorio documental sobre diferentos lenguajes o el desarrollo en IA.
+* 🌱 **Aprendiendo:** Aplicación de principios SOLID, buenas prácticas de Clean Code en proyectos reales y desarrollo con IA en diferentes ambitos.
+* 🎯 **Objetivo:** Seguir nutriendo esta biblioteca de conocimiento estructurada mientras avanzo en mi máster y trato de posicionarme profesionalmente.
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-Soy un desarrollador junior con un enfoque muy práctico y orientado a la calidad. Me apasiona entender no solo cómo funciona el código, sino cómo estructurarlo para que sea eficiente y escalable.
+Soy un desarrollador junior con un enfoque muy práctico y orientado a tener una base sólida. Me apasiona entender no solo cómo funciona el código, sino cómo estructurarlo para que sea eficiente y escalable.
 
 * 🖨️ **Experiencia y dedicación:** Compagino mis estudios de posgrado con una jornada completa en una importante empresa del sector de la **impresión 3D** en Barcelona. Esta industria es, además de mi trabajo, una de mis grandes aficiones, y esta exigencia diaria me ha dotado de una fuerte capacidad de organización y resolución de problemas.
 * ⚡ **El lado humano:** Cuando necesito abstraerme y recargar energía, suelo sumar kilómetros preparando alguna **10k o media maratón**, o buscando un buen reto en videojuegos **roguelike**. Disfruto enormemente de la música rock en directo, las novelas de fantasía, las tardes de juegos de mesa y de ver el fútbol rodeado de amigos.
@@ -25,22 +25,18 @@ Soy un desarrollador junior con un enfoque muy práctico y orientado a la calida
 ### 💻 Stack Técnico
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-<!-- 
+
 ---
 
 ## 📚 Biblioteca de Conocimiento
 
-Aquí iré enlazando directamente a mis apuntes, resúmenes y repositorios temáticos. Puedes explorarlos a continuación:
+Aquí iré enlazando directamente a mis apuntes, resúmenes y proyectos. Puedes explorarlos a continuación:
 
-* 🧠 **[Inteligencia Artificial: Historia, Modelos y Apuntes](./enlace-a-tu-repo)**
-* 🏗️ **[Arquitectura de Software y Principios SOLID](./enlace-a-tu-repo)**
-* 💻 **[Snippets, Scripts de Bash y Automatizaciones](./enlace-a-tu-repo)**
-* 📝 **[Guías y Conceptos de Lenguajes (C, C++, Java, Python)](./enlace-a-tu-repo)**
-
-*(Nota: Haz clic en los enlaces para ir directamente a los repositorios o archivos donde desarrollo cada tema).*
+* 🧠 **[1. Introducción a la IA](#1-introducción-a-la-ia)**
+  * 🧠 **[1.1. Conceptos básicosy resumen de los últimos](#1-1-Conceptos-básicos-y-resumen-de-los-últimos)** | [📥 Descargar PDF](./documentos/IA/introducción/1/1_1_Resumen.pdf)
 
 ---
--->
+
 <!-- 
 ## 📊 Estadísticas y Actividad
 
