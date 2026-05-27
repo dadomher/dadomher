@@ -8,7 +8,7 @@ Bienvenido a mi jardín digital. Este espacio es un documento vivo donde registr
 
 ## 🚀 En qué ando ahora mismo
 
-* 🔭 **Trabajando en:** La creación de un repositorio documental sobre diferentos lenguajes o el desarrollo en IA.
+* 🔭 **Trabajando en:** La creación de un repositorio documental sobre diferentes lenguajes y también en el desarrollo con IA.
 * 🌱 **Aprendiendo:** Aplicación de principios SOLID, buenas prácticas de Clean Code en proyectos reales y desarrollo con IA en diferentes ambitos.
 * 🎯 **Objetivo:** Seguir nutriendo esta biblioteca de conocimiento estructurada mientras avanzo en mi máster y trato de posicionarme profesionalmente.
 
@@ -18,7 +18,7 @@ Bienvenido a mi jardín digital. Este espacio es un documento vivo donde registr
 
 Soy un desarrollador junior con un enfoque muy práctico y orientado a tener una base sólida. Me apasiona entender no solo cómo funciona el código, sino cómo estructurarlo para que sea eficiente y escalable.
 
-* 🖨️ **Experiencia y dedicación:** Compagino mis estudios de posgrado con una jornada completa en una importante empresa del sector de la **impresión 3D** en Barcelona. Esta industria es, además de mi trabajo, una de mis grandes aficiones, y esta exigencia diaria me ha dotado de una fuerte capacidad de organización y resolución de problemas.
+* 🖨️ **Experiencia y dedicación:** Compagino mis estudios de posgrado con una jornada completa en una importante empresa del sector de la **impresión 3D** en Barcelona. Esta industria es, además de mi trabajo, una de mis grandes aficiones, dándome una exigencia diaria que me ha dotado de una fuerte capacidad de organización y resolución de problemas.
 * ⚡ **El lado humano:** Cuando necesito abstraerme y recargar energía, suelo sumar kilómetros preparando alguna **10k o media maratón**, o buscando un buen reto en videojuegos **roguelike**. Disfruto enormemente de la música rock en directo, las novelas de fantasía, las tardes de juegos de mesa y de ver el fútbol rodeado de amigos.
 * 🌍 **Idiomas:** Español (Nativo) | Catalán (Nativo) | Inglés (B1)
 
@@ -33,7 +33,7 @@ Soy un desarrollador junior con un enfoque muy práctico y orientado a tener una
 Aquí iré enlazando directamente a mis apuntes, resúmenes y proyectos. Puedes explorarlos a continuación:
 
 * 🧠 1. Introducción a la IA.
-  * 🧠 1.1. Conceptos básicos y resumen de los últimos años. | [📥 Descargar PDF](./documentos/IA/introducción/1/1_1_Resumen.pdf)
+  * 🧠 1.1. Conceptos básicos y resumen de los últimos años. | [📥 Descargar PDF](./documentos/IA/introducción/1/1_1_IA.pdf)
 
 ---
 
