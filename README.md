@@ -48,4 +48,4 @@ Aquí iré enlazando directamente a mis apuntes, resúmenes y proyectos. Puedes 
 ## 📫 Cómo contactarme
 
 * **LinkedIn:** [Mi perfil de LinkedIn!](https://www.linkedin.com/in/dadomher/)
-* **Email:** [Mi Email!](dadomher@gmail.com)
+* **Email:** Escribeme a dadomher@gmail.com
