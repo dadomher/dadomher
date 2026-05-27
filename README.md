@@ -35,6 +35,9 @@ Aquí iré enlazando directamente a mis apuntes, resúmenes y proyectos. Puedes 
 * 🧠 1. Introducción a la IA.
   * 🧠 1.1. Conceptos básicos y resumen de los últimos años. | [📥 Descargar PDF](./documentos/IA/introducción/1/1_1_IA.pdf)
 
+* 🐚 2. Fundamentos de Bash.
+    * 🐚 2.1. Guia esencial del Shell. | [📥 Descargar PDF](./documentos/Bash/guia_Bash.pdf)
+
 ---
 
 <!-- 
